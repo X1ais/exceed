@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Card" load_steps=2 format=3 uid="uid://cs5bixlhibfvh"]
+
+[ext_resource type="Script" path="res://custom_resources/card.gd" id="1_bxh8y"]
+
+[resource]
+script = ExtResource("1_bxh8y")
+id = "dive"
+attack_range = Vector2(1, 1)
+power = 5
+speed = 4
+armor = 0
+guard = 0

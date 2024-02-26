@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Card" load_steps=2 format=3 uid="uid://hu4ywboa5mf6"]
+
+[ext_resource type="Script" path="res://custom_resources/card.gd" id="1_xfiaq"]
+
+[resource]
+script = ExtResource("1_xfiaq")
+id = "cross"
+attack_range = Vector2(1, 2)
+power = 3
+speed = 6
+armor = 0
+guard = 0
